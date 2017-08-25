@@ -2,7 +2,7 @@
 Titanic Survival Exploration: manual implementation of a decision tree.
 
 ## Disclaimer
-This project was done as part of Udacity's Machine Learning Engineer Nanodegree. It started as a template developed by Udacity which I completed with code of my own in order to uncover insights in the data and to answer the questions. I've also edited the document so it reads in a more linear fashion.
+This project was done as part of Udacity's Machine Learning Engineer Nanodegree. It started as a template developed by Udacity which I completed with code of my own in order to uncover insights in the data and to answer the questions. I've also edited the notebook so it reads in a more linear fashion.
 
 ## Data dependencies:
 
